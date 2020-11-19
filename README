@@ -10,3 +10,4 @@ $ git init
 
 $ touch README
 # Crée un fichier nommé "README" dans votre répertoire local Hello-World
+$ git log --pretty=oneline
